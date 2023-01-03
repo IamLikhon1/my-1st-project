@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+}
+li{
+    text-decoration: none;
+    display: inline;
+    padding: 15px;
+    margin: 10px;
+    background-color: lightcyan;
+    margin-top: 5px;
+}
